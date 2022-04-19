@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  neutrino:
+  - apiVersion: v2
+    appVersion: 0.4.1
+    created: "2022-04-19T14:10:21.719987813Z"
+    description: A Helm chart for Kubernetes
+    digest: 2e4402c6d828dc8990b305946ee01dae5596d0c0ce997100261e7163c0c9a408
+    name: neutrino
+    type: application
+    urls:
+    - https://github.com/transposit-cuttlefish/helm-charts/releases/download/neutrino-0.1.0/neutrino-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-04-19T14:10:21.720172118Z"
