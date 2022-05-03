@@ -3,6 +3,20 @@ entries:
   neutrino:
   - apiVersion: v2
     appVersion: 0.9.1
+    created: "2022-05-03T14:47:26.484671209Z"
+    description: A Helm chart for Kubernetes
+    digest: 4a3614e4f56606c38729b4c6eb2b46ca52b97d726cd8f4f77a27415b43e54959
+    maintainers:
+    - email: paul@transposit.com
+      name: paulijones
+      url: https://github.com/paulijones
+    name: neutrino
+    type: application
+    urls:
+    - https://github.com/transposit-cuttlefish/helm-charts/releases/download/neutrino-0.1.3/neutrino-0.1.3.tgz
+    version: 0.1.3
+  - apiVersion: v2
+    appVersion: 0.9.1
     created: "2022-05-03T14:34:57.293171718Z"
     description: A Helm chart for Kubernetes
     digest: c970872ae8782dedc46206d609dc5dfef5c4929c546b98c5227ec8f33adbb388
@@ -39,4 +53,4 @@ entries:
     urls:
     - https://github.com/transposit-cuttlefish/helm-charts/releases/download/neutrino-0.1.0/neutrino-0.1.0.tgz
     version: 0.1.0
-generated: "2022-05-03T14:34:57.293181218Z"
+generated: "2022-05-03T14:47:26.485016911Z"
